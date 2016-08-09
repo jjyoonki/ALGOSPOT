@@ -1,12 +1,12 @@
 /*
 IN>
-1		// °ÔÀÓÆÇ
+1		// ê²Œìž„íŒ
 URLPM
 XPRET
 GIAET
 XTNZY
 XOQRS
-6		// Ã£À» ´Ü¾î
+6		// ì°¾ì„ ë‹¨ì–´
 PRETTY
 GIRL
   :
