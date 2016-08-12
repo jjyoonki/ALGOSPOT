@@ -71,7 +71,7 @@ int check( int b0 ){
 		else
 			return(nump);
 	}
-
+ 
 	for( p=0 ; p<4 ; p++ ){
 		nump = min( nump, p+check(b0+1) );
 		push_button(b0);
