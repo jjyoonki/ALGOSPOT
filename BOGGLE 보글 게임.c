@@ -19,7 +19,7 @@ GIRL NO
 #include <stdio.h>
 #include <string.h>
 
-#define BMAX 5
+#define BMAX 5	//
 #define NMAX 10
 
 char board[BMAX][BMAX];
