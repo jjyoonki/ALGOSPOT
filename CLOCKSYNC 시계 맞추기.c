@@ -79,15 +79,15 @@ int check( int b0 ){
 	return(nump);
 }
 int main(void) {
-	int T, nump;
+	int T, num;
 
 	scanf( "%d", &T );
 	while(T--){
 		init();
-		nump = check(0);
-		if( nump==100000 )
-			nump = -1;
-		printf( "%d\n", nump );
+		num = check(0);
+		if( num==100000 )
+			num = -1;
+		printf( "%d\n", num );
 	}
 
 	return 0;
