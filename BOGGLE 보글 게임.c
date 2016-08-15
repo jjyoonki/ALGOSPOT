@@ -1,5 +1,5 @@
-/*
-H CODE
+/* 
+HH CODE
 IN>
 1		// 게임판
 URLPM
