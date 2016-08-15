@@ -1,1 +1,1 @@
-# This is the project for excercise.
+# This is the project for exercise.
