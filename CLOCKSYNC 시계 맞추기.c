@@ -1,3 +1,5 @@
+// CHANGED 22:12
+
 #include <stdio.h>
 #include <string.h>
 #define NUMC 16	// 시계수 
