@@ -1,4 +1,5 @@
-// CHANGED 22:12
+// CHANGED 12:00
+// Fixed 1
 
 #include <stdio.h>
 #include <string.h>
