@@ -1,7 +1,4 @@
-WEB 상에서 변경 (브랜치B)
 /* 
-
-HH CODE
 IN>
 1		// 게임판
 URLPM

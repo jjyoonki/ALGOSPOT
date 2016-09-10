@@ -1,8 +1,5 @@
-WEB 상에서 변경 (브랜치B)
-new branch
-// CHANGED 12:00
-// Fixed 1
-
+/*
+*/
 #include <stdio.h>
 #include <string.h>
 #define NUMC 16	// 시계수 
