@@ -1,4 +1,5 @@
 /*
+4번 커밋 시 커맨트 : "4소 commit"
 */
 #include <stdio.h>
 #include <string.h>
