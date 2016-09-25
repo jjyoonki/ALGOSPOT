@@ -1,25 +1,5 @@
 /* 
-4번 커밋 시 커맨트 : "4소 commit"
-1번 커밋 시 커맨트 : "1st commit"
-
-
-9/25 수정
-IN>
-1		// 게임판
-URLPM
-XPRET
-GIAET
-XTNZY
-XOQRS
-6		// 찾을 단어
-PRETTY
-GIRL
-  :
-
-OUT>
-PRETTY YES
-GIRL NO
-  :
+웹 업로드
 */
 #include <stdio.h>
 #include <string.h>
