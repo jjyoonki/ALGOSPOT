@@ -1,5 +1,5 @@
 /*
-4번 커밋 시 커맨트 : "4소 commit"
+로컬1
 */
 #include <stdio.h>
 #include <string.h>
