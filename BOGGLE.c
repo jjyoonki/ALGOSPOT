@@ -1,6 +1,5 @@
-/*
-로컬1
-
+/* 
+웹 업로드
 */
 #include <stdio.h>
 #include <string.h>
